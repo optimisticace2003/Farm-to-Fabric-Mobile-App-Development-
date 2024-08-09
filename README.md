@@ -21,4 +21,4 @@
 
 Farm to Fabric is currently under active development, with core features being progressively implemented. This repository includes screenshots and images showcasing the app’s interface and functionality.
 
- <img src="Output/1">
+ ![Wool Market Information](https://github.com/optimisticace2003/Farm-to-Fabric-Mobile-App-Development-/tree/main/Output/1)
